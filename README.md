@@ -5,7 +5,7 @@ I'm a passionate developer and problem solver who loves learning new technologie
 Here are some of the projects I've been working on:
 
 Project 1: Zomato Data Analysis Using Python
-A data-driven analysis of Zomato restaurant data using python. This project involves processing large datasets, analyzing trends, gaining insights from restaurant-related data, such as restaurant ratings, location, votes, pricing and online_orders.
+A data-driven analysis of Zomato restaurant data using python. This project involves processing large datasets, analyzing trends, gaining insights from restaurant-related data, such as restaurant ratings, location, votes ,cost per two and online_orders.
 
 Project 2: ATM Interface Using Java
 A simple simulation of an ATM interface built using Java. The project demonstrates user authentication, balance checking, money withdrawal, and deposit features, showcasing object-oriented programming concepts in Java.
